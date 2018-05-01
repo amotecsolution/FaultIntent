@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bf1a50a92fb740072f12cde54b3f1fd0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/iblue/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/29a539e697636d590bf6113d750aee94/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/732d9ae5f224e07fc8857a5ec2b3ddd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/96e8fcbe438471e03124585b6ece7b71/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/82bf7fd726b13bda88e6ac2989b6122b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c3c70d2cdf115ee552bf9202ca4348d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1d1b0ef86430fa69a5a1f8c4be79b245/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b9a1cce516928562e67a0f70786229a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2957fe1aed32bd402b5be6c812bf78dc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/iblue/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e9d540fa7a980a009a2774a50946e588/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/iblue/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a988958c7025c85320a82daf08e3eca8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/iblue/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9c42c047fea326197c7293a6d300b11e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/iblue/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7685b8ec23867dcce4f8c91a65e033e9/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:2:11-51
+		INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml
+		ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml
+		ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/iblue/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/29a539e697636d590bf6113d750aee94/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/iblue/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/29a539e697636d590bf6113d750aee94/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.amotecsolution.faultintent.FaultListActivity
+ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:12:9-17:20
+	android:name
+		ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:12:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:15:17-76
+	android:name
+		ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:15:27-74
+activity#com.amotecsolution.faultintent.FaultActivity
+ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:18:9-20:20
+	android:name
+		ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml:18:19-48
+uses-sdk
+INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml
+INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bf1a50a92fb740072f12cde54b3f1fd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bf1a50a92fb740072f12cde54b3f1fd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/iblue/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/29a539e697636d590bf6113d750aee94/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/iblue/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/29a539e697636d590bf6113d750aee94/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/732d9ae5f224e07fc8857a5ec2b3ddd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/732d9ae5f224e07fc8857a5ec2b3ddd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/96e8fcbe438471e03124585b6ece7b71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/96e8fcbe438471e03124585b6ece7b71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/82bf7fd726b13bda88e6ac2989b6122b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/82bf7fd726b13bda88e6ac2989b6122b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c3c70d2cdf115ee552bf9202ca4348d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c3c70d2cdf115ee552bf9202ca4348d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1d1b0ef86430fa69a5a1f8c4be79b245/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1d1b0ef86430fa69a5a1f8c4be79b245/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b9a1cce516928562e67a0f70786229a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b9a1cce516928562e67a0f70786229a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2957fe1aed32bd402b5be6c812bf78dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/iblue/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2957fe1aed32bd402b5be6c812bf78dc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/iblue/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e9d540fa7a980a009a2774a50946e588/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/iblue/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e9d540fa7a980a009a2774a50946e588/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/iblue/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a988958c7025c85320a82daf08e3eca8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/iblue/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a988958c7025c85320a82daf08e3eca8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/iblue/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9c42c047fea326197c7293a6d300b11e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/iblue/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9c42c047fea326197c7293a6d300b11e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/iblue/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7685b8ec23867dcce4f8c91a65e033e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/iblue/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7685b8ec23867dcce4f8c91a65e033e9/AndroidManifest.xml:20:5-44
+INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml
+INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml
+		ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml
+		ADDED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/iblue/Documents/workspace/FaultIntent/app/src/main/AndroidManifest.xml
